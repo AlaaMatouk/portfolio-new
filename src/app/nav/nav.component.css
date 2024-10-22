@@ -1,0 +1,12 @@
+a {
+    color: #E3CFE8;
+    font-family: "Playwrite GB S", cursive;
+}
+
+.nav-link:hover {
+    color: #965CA4;
+}
+
+.navbar-brand:hover {
+    color: #965CA4;
+}

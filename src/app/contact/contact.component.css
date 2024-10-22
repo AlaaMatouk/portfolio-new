@@ -1,0 +1,71 @@
+.form-control {
+    border: 2px solid #965CA4;
+}
+
+.footh {
+    font-family: "Playwrite GB S", cursive;
+    font-size: 70px;
+}
+
+label {
+    color: #965CA4;
+}
+
+h2 {
+    font-family: "Playwrite GB S", cursive;
+}
+
+
+.custom-btn {
+    background-color: #511660;
+    border-color: #511660;
+    color: aliceblue;
+}
+
+.custom-btn:hover {
+    background-color: #965CA4;
+    border-color: #511660;
+    color: aliceblue;
+    box-shadow: 0 0 20px rgba(186, 90, 238, 0.5);
+}
+
+
+footer {
+
+    padding: 10px 0;
+    text-align: center;
+}
+
+.icon-box {
+    width: 80px;
+    height: 80px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.3s ease;
+}
+
+.icon-box:hover {
+    border-color: #C8A4D1;
+    box-shadow: 0 0 10px rgba(186, 90, 238, 0.5);
+}
+
+.svg-icon {
+    width: 40px;
+    height: 40px;
+}
+
+.icons {
+    gap: 15px;
+}
+
+textarea:focus,
+input:focus {
+    box-shadow: 0 0 20px rgba(186, 90, 238, 0.5);
+}
+
+small {
+    color: aliceblue;
+}

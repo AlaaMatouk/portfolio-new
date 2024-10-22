@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+
+body {
+    background-color: #290133;
+    font-family: "Quicksand", sans-serif;
+}
+
+p {
+    color: aliceblue;
+}
+
+h1 {
+    color: #965CA4;
+}
+
+h2 {
+    /* color: #E3CFE8; */
+    color: #965CA4;
+}
+
+h3 {
+    /* color: #965CA4; */
+    color: aliceblue;
+}
+
+h5 {
+    color: #C8A4D1;
+}
+
+li {
+    color: aliceblue;
+}
+
+a {
+    color: #C8A4D1;
+}

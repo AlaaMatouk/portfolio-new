@@ -1,0 +1,30 @@
+h2 {
+    text-align: center;
+}
+
+.card {
+    background-color: #290133;
+    border: 1px solid #511660;
+}
+
+h5 {
+    color: #965CA4;
+}
+
+h2 {
+    margin-bottom: 50px;
+    font-family: "Playwrite GB S", cursive;
+}
+
+.btn {
+    background-color: #511660;
+    border-color: #511660;
+    color: aliceblue;
+}
+
+.btn:hover {
+    background-color: #965CA4;
+    border-color: #511660;
+    color: aliceblue;
+    box-shadow: 0 0 20px rgba(186, 90, 238, 0.5);
+}
